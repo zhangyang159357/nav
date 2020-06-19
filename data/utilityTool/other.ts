@@ -11,7 +11,7 @@ export default {
           link: 'https://tinypng.com/',
         },
         {
-          icon: 'assets/icon/utility-tool/001.png',
+          icon: 'http://nullice.com/limitPNG/img/logo-mini.png',
           name: 'limitPNG',
           desc: '比其他同类压缩工具压缩的更小，支持无损压缩和有损压缩，可调多线程处理，丰富参数可选，并且这是免费的',
           link: 'http://nullice.com/limitPNG/',
